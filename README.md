@@ -122,3 +122,7 @@ Bu proje, daha derin mimariler, veri artırma (data augmentation) teknikleri vey
 pip install -r requirements.txt
 
 ```
+### Örnek Tahmin (Rastgele Görüntü)
+Modelin gerçek kullanım senaryosunu göstermek amacıyla, doğrulama veri setinden rastgele seçilen bir görüntü üzerinde sınıf tahmini ve olasılık değeri (confidence) hesaplanmıştır.
+
+![Sample Prediction](images/sample_prediction.png)
